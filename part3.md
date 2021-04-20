@@ -8,4 +8,4 @@ Besides that, if you have many different ideas, but are unsure which one is bett
 
 Another, and one of the most function of git is the team collaboration. The core concept of it is the "distribution". Typically, each collaborater of the team will have a copy of the project (in his own repo), and do his contribution in his own repo. Then submit these changes to the team leader (make a pull request) and receive other's changes (a pr. from different direction). In Github, these actions are not hard: find a project you want to join in, click the "fork" button, then the whole repo will be copied to your account. Then you just do the changes in your own repo. When you are finished, make a pull request, and wait for its original manager to review your pr and accept it or further discussion.
 
-balabalabala
+QAQAQ
